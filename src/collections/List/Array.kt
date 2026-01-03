@@ -1,4 +1,4 @@
-package collections
+package collections.List
 
 fun main(){
 	val array = MyMutableListOf()
